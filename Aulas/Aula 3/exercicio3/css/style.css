@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: yellow;
+    padding-bottom: 20px;
+    margin-top: 2vh;
+    margin-left: 2vw;
+}
+h4{
+    background-color: antiquewhite;
+    width: 10vw;
+    margin-bottom: 20px;
+    margin-left: 5vw;
+}
+p{
+    margin-left: 5vw;
+    margin-right: 20vw;
+    margin-top: 2vh;
+}
+span {
+    color: coral;
+}
+#img{
+    background-color: ;
+}

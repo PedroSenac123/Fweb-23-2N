@@ -1,0 +1,9 @@
+p {
+    background-color: gray;
+    color: aquamarine;
+    font-size: 24px;
+}
+
+div p {
+    color: yellow;
+}
