@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+section{
+    display: flex;
+    height: 80vh;
+
+}
+#right, #left {
+    width: 46vw;
+    height: 80vh;
+    margin: 2vh;
+}
+#left{
+    background-color: tomato;
+    font-family: 'Sedgwick Ave', cursive;
+}
+#left h1{
+    color: yellow;
+    font-size: 4vw;
+    margin-top: 5vh;
+    margin-left: 10.5vw;
+}
+#left p{
+    font-size: 1.4vw;
+    margin: 1vw;
+}
+#right{
+    font-family: 'Caveat', cursive;
+}
+#right img {
+    width: 20vw;
+    height: auto;
+}
+tr th {
+    text-align: right;
+
+}
+tr th, td {
+    border-bottom: 2px solid gray ;
+}

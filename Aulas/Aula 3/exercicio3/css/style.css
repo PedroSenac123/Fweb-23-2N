@@ -23,5 +23,8 @@ span {
     color: coral;
 }
 #img{
-    background-color: ;
+    background-color: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ccZN1qFPXgHsGbZqKluRDUf86E8e6SyY4g&s);
+    width: 500px;
+    height: auto;
+    color: yellow;
 }
