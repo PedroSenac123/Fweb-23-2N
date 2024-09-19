@@ -40,3 +40,9 @@ tr th {
 tr th, td {
     border-bottom: 2px solid gray ;
 }
+#footer{
+    font-family: 'Caveat', cursive;
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+}
