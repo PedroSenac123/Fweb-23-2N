@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    width: 100vw;
+    height: 10vh;
+    color: tomato;
+}
+#navp{
+    text-align: center;
+    margin: 0;
+    font-size: 50px;
+    color: white;
+    font-family: sans-serif;
+}
+header{
+    width: 80vw;
+    height: 30vh;
+    background-color: aquamarine;
+    border-radius: 20px;
+}
+main{
+    width: 80vw;
+    height: 40vh;
+    background-color: lightgray;
+    border-radius: 20px;
+}
+aside{
+    width: 18vw;
+    height: 70vh;
+    border-radius: 20px;
+    background-color: crimson;
+    float: right;
+    margin: 10px 0;
+}
+footer{
+    width: 100vw;
+    height: 15vh;
+    background-color: yellowgreen;
+    border-radius: 20px;
+    margin-top: 10px;
+}
