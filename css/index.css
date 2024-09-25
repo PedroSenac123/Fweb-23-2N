@@ -1,0 +1,37 @@
+html, body{
+    width: 100%;
+    height: 300%;
+}
+body{
+    color: red;
+    font-family: sans-serif;
+}
+header{
+    height: 30vh;
+}
+#img-header{
+    height: 100%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe3fJC-wWdN00Vs_XGtHRRyj-NwrXWdzODWP6mYj278tBOSzhb8XTHPe3aMP3iK1vfIfY&usqp=CAU);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.container{
+    width: 90vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+.menu-opcoes{
+    position: absolute;
+    right: 40vw;
+    top: 2vh;
+}
+.menu-opcoes ul{
+    font-size: 20px;
+}
+.menu-opcoes a{
+    color: #003366;
+}
+.menu-opcoes ul li{
+    display: inline;
+    margin: 2vh;
+}
