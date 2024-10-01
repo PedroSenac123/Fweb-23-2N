@@ -35,3 +35,18 @@ header{
     display: inline;
     margin: 2vh;
 }
+.painel {
+    margin: 10px 0px;
+    padding: 20px;
+
+}
+.blog{
+    float: right;
+    background-color: violet;
+}
+.painel li{
+    display: inline-block;
+    width: 150px;
+    margin: 2px;
+    padding-bottom: 10px;
+}

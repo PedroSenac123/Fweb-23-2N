@@ -1,0 +1,67 @@
+html{
+    width: 100vw;
+    height: 100vh;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    font-family: sans-serif;
+    color: #07498a;
+}
+.menu-opcoes ul{
+    font-size: 20px;
+    margin-left: 20px;
+}
+header{
+    position: relative;
+}
+h1{
+    height: 14vh;
+    margin-left: 15px;
+    margin-right: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.busca{
+    float: left;
+}
+.menu-opcoes h1{
+    background-image: url();
+}
+.menu-opcoes{
+    position: absolute;
+    top: 7px;
+    left: 130px;
+    background-color: cadetblue;
+}
+.menu-opcoes a{
+    color: blue;
+}
+
+.menu-opcoes ul li{
+    display: inline;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.menu-conteudo{
+    background-color: yellow;
+    font-weight: bold;
+    text-transform: uppercase;
+    width: 230px;
+    margin-right: 10px;
+    float: left;
+}
+
+
+.menu-conteudo li{
+    background-color: white;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+}
+
+.menu-conteudo a{
+    color: blueviolet;
+}
+.menu-conteudo{
+    clear: left;
+}
