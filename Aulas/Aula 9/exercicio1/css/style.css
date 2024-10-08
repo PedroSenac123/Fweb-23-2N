@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body, main{
+    width: 100vw;
+    height: 100vh;
+}
+main{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.div{
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: red;
+    text-shadow: 10px 4px 3px red;
+}
+.a{
+    
+}
+.b{
+
+}
+.c{
+    border: 5%;
+}
+.d{
+    border-radius: 20px;
+}
+.e{
+    border-radius: 50%;
+}
+.f{
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px red;
+}
+.g{
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px red, 10px -10px 5px;
+}

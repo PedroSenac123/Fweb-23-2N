@@ -96,3 +96,17 @@ footer{
     text-indent: -9999px;
     display: block;
 }
+
+header a::before{
+    content: '<';
+}
+header a:hover{
+    background-color: green;
+}
+
+header a::after{
+    content: '>';
+}
+header a:active{
+    background-color: red;
+}
