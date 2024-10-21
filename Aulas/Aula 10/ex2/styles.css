@@ -1,0 +1,16 @@
+/* Estilos customizados */
+header {
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .card img {
+    height: 250px;
+    object-fit: cover;
+  }
+  
+  footer {
+    margin-top: 50px;
+  }
+  
